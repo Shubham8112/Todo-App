@@ -56,6 +56,7 @@ button:hover{
     margin-top:20px ;
     border: 2px solid black;
     border-radius: 20px;
+    overflow-y: auto;
 }
 /* homework : personal task manager ,delete,complete task */
 .todo{
