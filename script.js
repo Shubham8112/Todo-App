@@ -29,7 +29,8 @@ addBtn.addEventListener("click", () => {
 
   const del = document.createElement("span");
   del.innerText = "delete";
-  del.style.cursor = "pointer";
+
+  del.classList.add("delete-btn");
 
   del.addEventListener("click", () => {
     todo.remove();
