@@ -1,0 +1,24 @@
+// addBtn.addEventListener("click", () => {
+//   if (input.value.trim() === "") {
+//     alert("Please enter a task!");
+//     return;
+//   }
+
+//   const p = document.createElement("p");
+//   p.innerText = input.value.trim();
+
+//   printDiv.appendChild(p);
+
+//   input.value = "";
+// });
+// const todos = [];
+// function saveTodos(){
+//   localStorage.setItem('todos',JSON.stringify(todos));
+// }
+// function getTodos(){
+//   localStorage.getItem('todos');
+// }
+// function renderTodos(){
+//   const storedTodos = localStorage.getItem('todos');
+//   todos = JSON.parse(storedTodos);
+// }

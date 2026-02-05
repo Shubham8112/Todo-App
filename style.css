@@ -76,7 +76,6 @@ button:hover{
   cursor: pointer;
   transition: 0.3s;
 }
-
 .delete-btn:hover{
   color: darkred;
   transform: scale(1.2);
